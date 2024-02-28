@@ -1,0 +1,23 @@
+.photo-gallery{
+    img{
+        &:hover{
+            scale: 1.1;
+            transition: all 0.4s linear;
+        }
+    }
+    .grid-upper-gallery{
+        display: grid;
+        gap: 1.2rem;
+        grid-template-columns: repeat(4,1fr);
+        grid-template-rows: 358px;
+        .wide-grid{
+           grid-column: span 2;
+        }
+    }
+    .grid-lower-gallery{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 1.2rem;
+        grid-template-rows: 388px;   
+    }
+}

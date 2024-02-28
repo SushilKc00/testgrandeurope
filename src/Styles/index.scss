@@ -1,0 +1,256 @@
+@import "./header.scss";
+@import "./footer.scss";
+@import "./photogallery.scss";
+@import "./herosection.scss";
+@import "./checkinout.scss";
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  --white: #FFFFFF;
+  --primary-white: #F4F4F4;
+  --primary-green: #288173;
+  --primary-dark: #1C1C1C;
+  --primary-gray: #37323E;
+  --secondary-gray: #777777;
+}
+
+/* default style  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.max-width {
+  max-width: 1320px;
+  margin-inline: auto;
+  padding: 0 1.5rem;
+
+  @media (width<768px) {
+    max-width: 720px;
+    padding: 0 1rem;
+  }
+
+  @media (width<600px) {
+    max-width: 100%;
+    padding: 0 1rem;
+  }
+}
+
+.layout-section {
+  padding: 3.2rem 0;
+
+  @media (width<768px) {
+    padding: 2rem 0;
+  }
+}
+
+.section-banner {
+  width: 100%;
+  height: 732px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  @media (width<=600px) {
+    height: 300px;
+  }
+}
+
+.section-banner-h1 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 6.5rem;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+
+  @media (width<768px) {
+    font-size: 2.4rem;
+    line-height: 3rem;
+  }
+}
+
+
+.section-heading-h2,
+.section-heading-h3 {
+  font-size: 4rem;
+  line-height: 5rem;
+  font-weight: 500;
+  text-transform: uppercase;
+
+  @media (width<=600px) {
+    font-size: 1.8rem;
+    line-height: 2.6rem;
+  }
+}
+
+.section-para {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  font-weight: 500;
+  color: #4d4d4d;
+  text-align: center;
+
+  @media (width<=600px) {
+    font-size: 1.2rem;
+    line-height: 2rem;
+    text-align: center;
+  }
+}
+
+.hero-section-heading-h2,
+.hero-section-heading-h3 {
+  font-size: 2.2rem;
+  line-height: 3.2rem;
+  font-weight: 500;
+  text-transform: capitalize;
+
+  @media (width<=600px) {
+    font-size: 1.7rem;
+    line-height: 2.3rem;
+  }
+}
+
+.hero-section-para {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+  font-weight: 500;
+  color: #4d4d4d;
+  // color: #777777;
+
+  @media (width<=600px) {
+    font-size: 1.4rem;
+    line-height: 2rem;
+    text-align: justify;
+  }
+}
+
+.common-btn {
+  background-color: var(--primary-green);
+  padding: 0.6rem 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: white;
+
+  @media (width<=600px) {
+    font-size: 1.3rem;
+    line-height: 2rem;
+    padding: 0.6rem 2rem;
+  }
+
+}
+
+.active {
+  background-color: var(--primary-green);
+  padding: 0.5rem 1.4rem;
+  border-radius: 100dvb;
+  color: white;
+}
+
+.tsc {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  >div {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    >div {
+      >h2 {
+        font-size: 2.4rem;
+        letter-spacing: 1.75px;
+        color: var(--primary-dark);
+        font-weight: 500;
+
+        @media (width<=600px) {
+          font-size: 1.8rem;
+        }
+
+
+      }
+
+      p {
+        font-size: 1.6rem;
+        line-height: 2.8rem;
+        text-align: justify;
+        margin-bottom: .5rem;
+        color: var(--secondary-gray);
+        font-weight: 500;
+
+        @media (width<=600px) {
+          font-size: 1.2rem;
+        }
+      }
+    }
+
+    ol,
+    ul {
+      // list-style: decimal;
+      list-style: disc;
+      display: flex;
+      flex-direction: column;
+      gap: 1.8rem;
+
+
+    }
+
+
+
+  }
+
+
+}
+
+.content_heading {
+  font-size: 2.4rem;
+  letter-spacing: 1.75px;
+
+  @media (width<=600px) {
+    font-size: 1.8rem;
+  }
+}
+
+.content_description {
+  font-size: 1.6rem;
+  line-height: 2.8rem;
+  text-align: justify;
+  margin-bottom: .5rem;
+
+  @media (width<=600px) {
+    font-size: 1.2rem;
+  }
+
+}
+
+.text_normal {
+  color: var(--secondary-gray);
+}
+
+.text_dark {
+  color: var(--primary-dark);
+}

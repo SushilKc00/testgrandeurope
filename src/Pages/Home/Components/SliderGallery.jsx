@@ -1,0 +1,161 @@
+import React, { useState } from "react";
+import { useWebContext } from "../../../Context/ContextProvider";
+import { TiArrowRight, TiArrowLeft } from "react-icons/ti";
+import { IoIosArrowForward } from "react-icons/io";
+
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Navigation, Pagination, Autoplay } from "swiper/modules";
+import "swiper/css";
+import "swiper/css/navigation";
+import { Link } from "react-router-dom";
+
+export const SliderGallery = () => {
+  const { webSiteData } = useWebContext();
+  const [imgSelectIndex, setImgSelectIndex] = useState(0);
+  const [previewImage, setPreviewImage] = useState(false);
+
+  const slideRight = () => {
+    if (imgSelectIndex === webSiteData?.Images.length - 1)
+      return setImgSelectIndex(0);
+    setImgSelectIndex(imgSelectIndex + 1);
+  };
+
+  const slideLeft = () => {
+    if (imgSelectIndex <= 0)
+      return setImgSelectIndex(webSiteData?.Images?.length - 1);
+    setImgSelectIndex(imgSelectIndex - 1);
+  };
+
+  const GalleryImages = [
+    webSiteData?.Banner[0]?.url,
+    webSiteData?.Banner[1]?.url,
+    webSiteData?.Banner[2]?.url,
+    webSiteData?.Banner[3]?.url,
+    webSiteData?.Banner[4]?.url,
+    webSiteData?.Banner[5]?.url,
+    webSiteData?.Banner[6]?.url,
+    webSiteData?.Banner[7]?.url,
+    webSiteData?.Banner[8]?.url,
+  ];
+
+  return (
+    <>
+      <div className="max-width">
+        <Swiper
+          spaceBetween={20}
+          loop={true}
+          autoplay={{
+            delay: `8000`,
+            disableOnInteraction: false,
+          }}
+          pagination={{
+            el: "#swiper-pagination",
+            clickable: true,
+          }}
+          navigation={{
+            nextEl: `.next`,
+            prevEl: `.prev`,
+          }}
+          modules={[Pagination, Navigation, Autoplay]}
+          breakpoints={{
+            768: {
+              slidesPerView: 2,
+            },
+          }}
+          className="h-[100%]"
+        >
+          {GalleryImages.map((img, index) => {
+            return (
+              <SwiperSlide key={index}>
+                <div
+                  className="w-[100%] md:h-[400px] h-[260px]"
+                  onClick={() => {
+                    setPreviewImage(true);
+                    setImgSelectIndex(index);
+                  }}
+                >
+                  <img
+                    decoding="async"
+                    loading="lazy"
+                    src={img}
+                    className="w-[100%] h-[100%]"
+                    alt=""
+                  />
+                </div>
+              </SwiperSlide>
+            );
+          })}
+        </Swiper>
+        <div className="bg-[#F4F4F4] flex flex-col gap-3 pb-8">
+          <h2 className="text-[#1C1C1C] text-[2.5rem] uppercase leading-[4rem] font-medium">
+            {webSiteData?.SectionTitles?.About.Title}
+          </h2>
+          <p className="text-[#4d4d4d] text-[1.6rem] font-normal">
+            {webSiteData?.About.Text.substring(0, 200)}.........
+          </p>
+          <Link
+            to="/About"
+            className="text-[#4d4d4d]  uppercase font-bold text-[1.6rem] flex items-center gap-1"
+          >
+            <span className="border-b-[3px] border-b-[#288173]">ABOUT US</span>
+            <span className="sr-only">icon</span>
+            <IoIosArrowForward className="text-[1.8rem]" />
+          </Link>
+        </div>
+        <div className="mt-12 border-b border-b-gray-700 pb-6">
+          <div className="flex justify-center">
+            <Link
+              to={webSiteData?.Engine}
+              target="_blank"
+              className="common-btn rounded-full"
+            >
+              Check In
+            </Link>
+          </div>
+        </div>
+      </div>
+
+      {previewImage && (
+        <div className="fixed top-0 left-0 w-[100%] h-[100vh] bg-[#000000c6] z-10 flex flex-col justify-center items-center">
+          <div className="relative w-[90%] md:h-[640px] h-[300px] m-auto">
+            <img
+              src={webSiteData?.Images[imgSelectIndex].Image}
+              loading="lazy"
+              decoding="async"
+              alt=""
+              style={{
+                width: "100%",
+                height: "100%",
+              }}
+            />
+            <p
+              className="text-4xl text-white bg-slate-900 w-20 h-20 flex justify-center items-center rounded-full mb-4 cursor-pointer absolute top-[-4%] right-[-2%]"
+              onClick={() => {
+                setPreviewImage(false);
+                window.document.body.classList.remove("bg_salmon");
+              }}
+            >
+              X
+            </p>
+          </div>
+          <span
+            className="fixed top-[50%] md:left-[2rem] left-[4rem] p-4 bg-[#288173]  cursor-pointer rounded-full"
+            onClick={() => {
+              slideLeft();
+            }}
+          >
+            <TiArrowLeft size={20} className="text-white" />
+          </span>
+          <span
+            className="fixed top-[50%] md:right-[2rem] right-[4rem] p-4 bg-[#288173] rounded-full cursor-pointer"
+            onClick={() => {
+              slideRight();
+            }}
+          >
+            <TiArrowRight size={20} className="text-white" />
+          </span>
+        </div>
+      )}
+    </>
+  );
+};
