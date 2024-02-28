@@ -1,0 +1,1697 @@
+{
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/domelementtype/lib/index.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/domhandler/lib/index.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/domhandler/lib/node.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-dom-parser/lib/client/constants.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-dom-parser/lib/client/domparser.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-dom-parser/lib/client/html-to-dom.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-dom-parser/lib/client/utilities.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-react-parser/lib/attributes-to-props.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-react-parser/lib/dom-to-react.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-react-parser/lib/index.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/html-react-parser/lib/utilities.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/prop-types/index.js?commonjs-module": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-dom/client.js?commonjs-exports": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-dom/index.js?commonjs-module": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-property/lib/index.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-property/lib/possibleStandardNamesOptimized.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-rating-stars-component/dist/hooks/useConfig.js?commonjs-exports": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-rating-stars-component/dist/react-stars.js?commonjs-exports": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react-rating-stars-component/dist/star.js?commonjs-exports": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react/cjs/react.production.min.js?commonjs-exports": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react/index.js?commonjs-module": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/react/jsx-runtime.js?commonjs-module": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/scheduler/index.js?commonjs-module": [],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/style-to-js/cjs/index.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/style-to-js/cjs/utilities.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000E:/Eazotel/AWS/testgrand/node_modules/style-to-object/cjs/index.js?commonjs-exports": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "index.html": [],
+  "node_modules/@remix-run/router/dist/router.js": [],
+  "node_modules/axios/lib/adapters/adapters.js": [],
+  "node_modules/axios/lib/adapters/xhr.js": [],
+  "node_modules/axios/lib/axios.js": [],
+  "node_modules/axios/lib/cancel/CancelToken.js": [],
+  "node_modules/axios/lib/cancel/CanceledError.js": [],
+  "node_modules/axios/lib/cancel/isCancel.js": [],
+  "node_modules/axios/lib/core/Axios.js": [],
+  "node_modules/axios/lib/core/AxiosError.js": [],
+  "node_modules/axios/lib/core/AxiosHeaders.js": [],
+  "node_modules/axios/lib/core/InterceptorManager.js": [],
+  "node_modules/axios/lib/core/buildFullPath.js": [],
+  "node_modules/axios/lib/core/dispatchRequest.js": [],
+  "node_modules/axios/lib/core/mergeConfig.js": [],
+  "node_modules/axios/lib/core/settle.js": [],
+  "node_modules/axios/lib/core/transformData.js": [],
+  "node_modules/axios/lib/defaults/index.js": [],
+  "node_modules/axios/lib/defaults/transitional.js": [],
+  "node_modules/axios/lib/env/data.js": [],
+  "node_modules/axios/lib/helpers/AxiosURLSearchParams.js": [],
+  "node_modules/axios/lib/helpers/HttpStatusCode.js": [],
+  "node_modules/axios/lib/helpers/bind.js": [],
+  "node_modules/axios/lib/helpers/buildURL.js": [],
+  "node_modules/axios/lib/helpers/combineURLs.js": [],
+  "node_modules/axios/lib/helpers/cookies.js": [],
+  "node_modules/axios/lib/helpers/formDataToJSON.js": [],
+  "node_modules/axios/lib/helpers/isAbsoluteURL.js": [],
+  "node_modules/axios/lib/helpers/isAxiosError.js": [],
+  "node_modules/axios/lib/helpers/isURLSameOrigin.js": [],
+  "node_modules/axios/lib/helpers/null.js": [],
+  "node_modules/axios/lib/helpers/parseHeaders.js": [],
+  "node_modules/axios/lib/helpers/parseProtocol.js": [],
+  "node_modules/axios/lib/helpers/speedometer.js": [],
+  "node_modules/axios/lib/helpers/spread.js": [],
+  "node_modules/axios/lib/helpers/toFormData.js": [],
+  "node_modules/axios/lib/helpers/toURLEncodedForm.js": [],
+  "node_modules/axios/lib/helpers/validator.js": [],
+  "node_modules/axios/lib/platform/browser/classes/Blob.js": [],
+  "node_modules/axios/lib/platform/browser/classes/FormData.js": [],
+  "node_modules/axios/lib/platform/browser/classes/URLSearchParams.js": [],
+  "node_modules/axios/lib/platform/browser/index.js": [],
+  "node_modules/axios/lib/platform/common/utils.js": [],
+  "node_modules/axios/lib/platform/index.js": [],
+  "node_modules/axios/lib/utils.js": [],
+  "node_modules/domelementtype/lib/index.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/domhandler/lib/index.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/domhandler/lib/node.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/instant.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/js/driver-frameloop.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/js/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/waapi/create-accelerated-animation.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/waapi/easing.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/waapi/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/waapi/utils/get-final-keyframe.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/generators/inertia.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/generators/keyframes.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/generators/spring/find.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/generators/spring/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/generators/utils/calc-duration.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/generators/utils/velocity.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/motion-value.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/single-value.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/visual-element-target.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/visual-element-variant.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/visual-element.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/optimized-appear/data-id.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/default-transitions.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/is-animatable.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/is-animation-controls.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/is-keyframes-target.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/is-none.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/keyframes.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/transitions.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/components/AnimatePresence/use-presence.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/LayoutGroupContext.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/LazyContext.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionConfigContext.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionContext/create.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionContext/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionContext/utils.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/PresenceContext.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/context/SwitchLayoutGroupContext.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/debug/record.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/anticipate.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/back.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/circ.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/cubic-bezier.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/ease.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/modifiers/mirror.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/modifiers/reverse.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/utils/is-bezier-definition.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/utils/is-easing-array.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/easing/utils/map.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/events/add-dom-event.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/events/add-pointer-event.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/events/event-info.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/events/utils/is-primary-pointer.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/frameloop/batcher.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/frameloop/frame.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/frameloop/microtask.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/frameloop/render-step.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/frameloop/sync-time.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/drag/VisualElementDragControls.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/drag/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/drag/utils/constraints.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/drag/utils/lock.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/focus.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/hover.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/pan/PanSession.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/pan/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/press.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/utils/is-node-or-child.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/Feature.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/animation/exit.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/animation/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/animations.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/definitions.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/drag.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/gestures.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/layout.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/layout/MeasureLayout.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/load-features.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/viewport/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/viewport/observers.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/is-forced-motion-value.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/symbol.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/use-motion-ref.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/use-visual-element.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/use-visual-state.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/valid-prop.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/animation/mix-values.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/conversion.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/copy.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/delta-apply.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/delta-calc.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/delta-remove.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/models.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/utils.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/DocumentProjectionNode.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/HTMLProjectionNode.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/create-projection-node.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/state.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/shared/stack.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/scale-border-radius.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/scale-box-shadow.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/scale-correction.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/transform.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/utils/each-axis.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/utils/has-transform.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/projection/utils/measure.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/VisualElement.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/DOMVisualElement.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/create-visual-element.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/motion-proxy.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/motion.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/use-render.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/camel-to-dash.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/create-config.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/css-variables-conversion.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/filter-props.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/is-css-variable.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/is-svg-component.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/is-svg-element.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/parse-dom-variant.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/unit-conversion.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/animatable-none.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/defaults.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/dimensions.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/find.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/get-as-type.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/number.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/test.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/type-auto.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/value-types/type-int.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/HTMLVisualElement.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/config-motion.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/use-props.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/build-styles.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/build-transform.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/create-render-state.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/render.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/scrape-motion-values.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/transform.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/store.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/SVGVisualElement.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/config-motion.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/lowercase-elements.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/use-props.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/build-attrs.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/camel-case-attrs.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/create-render-state.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/is-svg-tag.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/path.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/render.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/scrape-motion-values.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/transform-origin.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/animation-state.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/compare-by-depth.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/flat-tree.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/is-controlling-variants.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/is-variant-label.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/motion-values.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/resolve-dynamic-variants.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/resolve-variants.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/setters.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/variant-props.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/GlobalConfig.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/array.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/clamp.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/delay.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/distance.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/errors.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/get-context-window.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/hsla-to-rgba.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/interpolate.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/is-browser.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/is-numerical-string.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/is-ref-object.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/is-zero-value-string.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/memo.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/mix/color.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/mix/complex.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/mix/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/mix/number.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/noop.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/offsets/default.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/offsets/fill.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/offsets/time.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/pipe.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/progress.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/reduced-motion/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/reduced-motion/state.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/resolve-value.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/shallow-compare.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/subscription-manager.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/time-conversion.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/use-constant.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/use-instant-transition-state.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/use-isomorphic-effect.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/utils/velocity-per-second.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/color/hex.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/color/hsla.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/color/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/color/rgba.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/color/utils.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/complex/filter.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/complex/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/numbers/index.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/numbers/units.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/types/utils.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/use-will-change/is.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/utils/is-motion-value.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/framer-motion/dist/es/value/utils/resolve-motion-value.mjs": [
+    "/assets/motion-DwQcEnHU.js"
+  ],
+  "node_modules/html-dom-parser/lib/client/constants.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-dom-parser/lib/client/domparser.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-dom-parser/lib/client/html-to-dom.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-dom-parser/lib/client/utilities.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-react-parser/esm/index.mjs": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-react-parser/lib/attributes-to-props.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-react-parser/lib/dom-to-react.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-react-parser/lib/index.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/html-react-parser/lib/utilities.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/inline-style-parser/index.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/object-assign/index.js": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "node_modules/prop-types/factoryWithThrowingShims.js": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "node_modules/prop-types/index.js": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "node_modules/prop-types/lib/ReactPropTypesSecret.js": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "node_modules/react-dom/cjs/react-dom.production.min.js": [],
+  "node_modules/react-dom/client.js": [],
+  "node_modules/react-dom/index.js": [],
+  "node_modules/react-fast-compare/index.js": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "node_modules/react-helmet/es/Helmet.js": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "node_modules/react-icons/ai/index.mjs": [],
+  "node_modules/react-icons/ci/index.mjs": [],
+  "node_modules/react-icons/fa/index.mjs": [],
+  "node_modules/react-icons/io/index.mjs": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "node_modules/react-icons/io5/index.mjs": [],
+  "node_modules/react-icons/lia/index.mjs": [],
+  "node_modules/react-icons/lib/iconBase.mjs": [],
+  "node_modules/react-icons/lib/iconContext.mjs": [],
+  "node_modules/react-icons/md/index.mjs": [],
+  "node_modules/react-icons/ti/index.mjs": [
+    "/assets/index-Bf2na2_1.js"
+  ],
+  "node_modules/react-property/lib/index.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/react-property/lib/possibleStandardNamesOptimized.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/react-rating-stars-component/dist/hooks/useConfig.js": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "node_modules/react-rating-stars-component/dist/react-stars.js": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "node_modules/react-rating-stars-component/dist/star.js": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "node_modules/react-router-dom/dist/index.js": [],
+  "node_modules/react-router/dist/index.js": [],
+  "node_modules/react-side-effect/lib/index.js": [
+    "/assets/Helmet-gJ0yDUXj.js"
+  ],
+  "node_modules/react/cjs/react-jsx-runtime.production.min.js": [],
+  "node_modules/react/cjs/react.production.min.js": [],
+  "node_modules/react/index.js": [],
+  "node_modules/react/jsx-runtime.js": [],
+  "node_modules/scheduler/cjs/scheduler.production.min.js": [],
+  "node_modules/scheduler/index.js": [],
+  "node_modules/style-to-js/cjs/index.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/style-to-js/cjs/utilities.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/style-to-object/cjs/index.js": [
+    "/assets/index-U8R_kk6d.js"
+  ],
+  "node_modules/swiper/modules/autoplay.mjs": [
+    "/assets/autoplay-kR50zGdc.js"
+  ],
+  "node_modules/swiper/modules/effect-coverflow.mjs": [
+    "/assets/Gallery-C0188y5D.js"
+  ],
+  "node_modules/swiper/modules/effect-cube.css": [
+    "/assets/About-D2AbVS5z.js",
+    "/assets/About-Dp8aaArs.css",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "node_modules/swiper/modules/effect-cube.mjs": [
+    "/assets/About-D2AbVS5z.js",
+    "/assets/About-Dp8aaArs.css",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "node_modules/swiper/modules/navigation.css": [
+    "/assets/Nearby-ClrWKrwg.js",
+    "/assets/Nearby-aOjAu50E.css",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "node_modules/swiper/modules/navigation.mjs": [
+    "/assets/autoplay-kR50zGdc.js"
+  ],
+  "node_modules/swiper/modules/pagination.mjs": [
+    "/assets/pagination-D2DQyUBw.js"
+  ],
+  "node_modules/swiper/shared/classes-to-selector.mjs": [
+    "/assets/pagination-D2DQyUBw.js"
+  ],
+  "node_modules/swiper/shared/create-element-if-not-defined.mjs": [
+    "/assets/autoplay-kR50zGdc.js"
+  ],
+  "node_modules/swiper/shared/create-shadow.mjs": [
+    "/assets/Gallery-C0188y5D.js"
+  ],
+  "node_modules/swiper/shared/effect-init.mjs": [
+    "/assets/effect-init-D-_Wjm5S.js"
+  ],
+  "node_modules/swiper/shared/effect-target.mjs": [
+    "/assets/Gallery-C0188y5D.js"
+  ],
+  "node_modules/swiper/shared/ssr-window.esm.mjs": [
+    "/assets/swiper-react-n4gPyDW5.js"
+  ],
+  "node_modules/swiper/shared/swiper-core.mjs": [
+    "/assets/swiper-react-n4gPyDW5.js"
+  ],
+  "node_modules/swiper/shared/update-on-virtual-data.mjs": [
+    "/assets/swiper-react-n4gPyDW5.js"
+  ],
+  "node_modules/swiper/shared/update-swiper.mjs": [
+    "/assets/swiper-react-n4gPyDW5.js"
+  ],
+  "node_modules/swiper/shared/utils.mjs": [
+    "/assets/swiper-react-n4gPyDW5.js"
+  ],
+  "node_modules/swiper/swiper-react.mjs": [
+    "/assets/swiper-react-n4gPyDW5.js"
+  ],
+  "src/App/App.jsx": [],
+  "src/Components/Accodion/Accordion.jsx": [
+    "/assets/Accordion-_jENXjsj.js"
+  ],
+  "src/Components/Banner/Banner.jsx": [
+    "/assets/Banner-CBWuSmH2.js"
+  ],
+  "src/Components/CommonSections/HeroSection.jsx": [
+    "/assets/HeroSection-BUv9xZxf.js",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "src/Components/CommonSections/HeroSectionRes.jsx": [
+    "/assets/Restaurant-7JAJ47sf.js",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "src/Components/CommonSections/SectionHeading.jsx": [
+    "/assets/SectionHeading-e6GrQhdU.js"
+  ],
+  "src/Components/Footer/Footer.jsx": [],
+  "src/Components/GallerySlide/GallerySlider.jsx": [
+    "/assets/Gallery-C0188y5D.js"
+  ],
+  "src/Components/Header/Header.jsx": [],
+  "src/Components/Header/MobileNav.jsx": [],
+  "src/Components/Header/Nav_Links.js": [],
+  "src/Components/ModernAmenities/Amenities.jsx": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/Components/useScrollTop.js": [
+    "/assets/useScrollTop-s43yWjvf.js"
+  ],
+  "src/Context/ContextProvider.jsx": [],
+  "src/Pages/About/About.jsx": [
+    "/assets/About-D2AbVS5z.js",
+    "/assets/About-Dp8aaArs.css",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "src/Pages/Awards/Awards.jsx": [
+    "/assets/Awards-DJHBUOgR.js"
+  ],
+  "src/Pages/Cancellation/Cancellation.jsx": [
+    "/assets/Cancellation-BKry2SGp.js"
+  ],
+  "src/Pages/Careers/Careers.jsx": [
+    "/assets/Careers-BRlH6Sxn.js"
+  ],
+  "src/Pages/Contact/Contact.jsx": [
+    "/assets/Contact-ysdEWzDa.js"
+  ],
+  "src/Pages/Expierence/Experience.jsx": [
+    "/assets/Experience-Cb_egLuY.js"
+  ],
+  "src/Pages/Faq/Faq.jsx": [
+    "/assets/Faq-CakVyuTA.js"
+  ],
+  "src/Pages/Gallery/Gallery.jsx": [
+    "/assets/Gallery-C0188y5D.js"
+  ],
+  "src/Pages/Home/Components/Checkinout.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/Home/Components/Contact.jsx": [
+    "/assets/Contact-DGwWLOHC.js"
+  ],
+  "src/Pages/Home/Components/HotelFacility.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/Home/Components/InstagramPost.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/Home/Components/Nearby.jsx": [
+    "/assets/Nearby-ClrWKrwg.js",
+    "/assets/Nearby-aOjAu50E.css",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "src/Pages/Home/Components/PhotoGallery.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/Home/Components/RoomSection.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/Home/Components/SliderGallery.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/Home/Components/Testimonal.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/Home/Home.jsx": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/Pages/MeetingEvents/MeetingEvents.jsx": [
+    "/assets/MeetingEvents-DAdnMrj5.js",
+    "/assets/image2-DRI7QLtb.png"
+  ],
+  "src/Pages/NewLetter/NewsLetter.jsx": [
+    "/assets/NewsLetter-Y3YS4rcC.js"
+  ],
+  "src/Pages/NewsNotes/NewsNotes.jsx": [
+    "/assets/NewsNotes-BMKWH6QC.js"
+  ],
+  "src/Pages/PressRoom/PressRoom.jsx": [
+    "/assets/PressRoom-C-i0J91N.js"
+  ],
+  "src/Pages/PrivacyPolicy/PrivacyPolicy.jsx": [
+    "/assets/PrivacyPolicy-DyNWsQiZ.js"
+  ],
+  "src/Pages/Restaurant/Restaurant.jsx": [
+    "/assets/Restaurant-7JAJ47sf.js",
+    "/assets/pagination-BswZJUt7.css"
+  ],
+  "src/Pages/Rooms/Rooms.jsx": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/Pages/Terms&condition/TermsCondition.jsx": [
+    "/assets/TermsCondition-BSRMNrRU.js"
+  ],
+  "src/Styles/index.scss": [],
+  "src/assets/Images/facilityimg1.png": [
+    "/assets/facilityimg1-DRqJm1aw.js",
+    "/assets/facilityimg1-DATSByJD.png"
+  ],
+  "src/assets/Images/image2.png": [
+    "/assets/MeetingEvents-DAdnMrj5.js",
+    "/assets/image2-DRI7QLtb.png"
+  ],
+  "src/assets/Images/reviewsimg.png": [
+    "/assets/Home-Eygtup69.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/reviewsimg-B1w4rwJP.png"
+  ],
+  "src/assets/vector icons/air.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/babysitting.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/bar.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/bathroom.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/bathtub.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/card.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/casino.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/childcare.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/concierge.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/conroom.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/currencychange.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/doctor.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/electricity.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/elevator.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/evpoint.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/expcheck.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/fitness.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/frontdesk.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/healthbeauty.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/healthclub.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/housekeep.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/parking.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/rooftopcafe.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/roomservice.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/security.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/suncafe.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/swimming.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/assets/vector icons/wifi.svg": [
+    "/assets/Rooms-DAN8SBVH.js",
+    "/assets/pagination-BswZJUt7.css",
+    "/assets/roomservice-pU3dX8Zr.svg",
+    "/assets/housekeep-CMil9-te.svg",
+    "/assets/parking-z301lQJV.svg",
+    "/assets/air-DQolD_Ph.svg",
+    "/assets/bathroom-D0mDYQzt.svg",
+    "/assets/swimming-DPpGL_ZU.svg",
+    "/assets/fitness-76BlHwAz.svg",
+    "/assets/card-BftvdoAN.svg",
+    "/assets/childcare-DkfbPbIa.svg",
+    "/assets/conroom-mNUbnvuO.svg",
+    "/assets/currencychange-D0XNGhLJ.svg",
+    "/assets/frontdesk-DtmIWLR3.svg",
+    "/assets/healthbeauty-C6EHZoQO.svg",
+    "/assets/bathtub-DbWsVOw5.svg",
+    "/assets/rooftopcafe-Drdrzfai.svg",
+    "/assets/security-BqqsBf99.svg",
+    "/assets/suncafe-c9LY6lzJ.svg"
+  ],
+  "src/entry-client.jsx": []
+}
